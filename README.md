@@ -2,7 +2,7 @@
 
 ## This is a simple, single-task application that merges multiple PDF files into a single PDF file.
 
-This application helps users to merge multiple PDF files into a single PDF file.
+This application help users to merge multiple PDF files into a single PDF file.
 Printing will be easier and faster. 
 
 ## How to use
@@ -15,4 +15,5 @@ Printing will be easier and faster.
 ## How to run
 
 1. Clone the repository.
+2. Install the `req.txt` dependencies.
 2. Run the `main.py` file.
